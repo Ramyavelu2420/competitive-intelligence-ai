@@ -1,0 +1,101 @@
+product_id,brand,model,variant,category,base_price,current_price,rating,review_count,launch_date,platform
+P001,Amul,Amul Black Tea,Assam - 1kg,tea,4.75,5.03,3.0,3639,2025-10-09,Amazon
+P002,Tata,Tata Turmeric Powder,Regular - 100g,spices,6.3,5.17,4.0,616,2023-07-16,Amazon
+P003,Parle,Parle Corn Flakes,Almond - 1kg,breakfast_cereals,7.29,6.44,4.8,4939,2023-08-09,Amazon
+P004,Fortune,Fortune Red Chilli Powder,Byadgi - 100g,spices,3.37,2.81,3.5,2238,2024-04-02,Amazon
+P005,Kellogg's,Kellogg's Cream Biscuits,Chocolate - 300g,biscuits,4.91,5.37,4.4,1402,2025-12-25,Amazon
+P006,Maggi,Maggi Energy Drink,Sugar Free - 500ml,beverages,4.6,4.38,4.5,4182,2026-01-07,Amazon
+P007,Parle,Parle Coffee Powder,Espresso - 200g,coffee,13.19,13.0,3.8,3978,2023-05-04,Amazon
+P008,Kellogg's,Kellogg's Red Chilli Powder,Regular - 500g,spices,3.09,3.54,4.9,2332,2024-11-19,Amazon
+P009,Parle,Parle Cooking Oil,Sunflower - 1L,oil,19.34,18.9,4.1,2962,2023-03-24,Amazon
+P010,Amul,Amul Black Tea,Assam - 250g,tea,9.01,7.53,4.2,4608,2024-11-21,Amazon
+P011,Aashirvaad,Aashirvaad Noodles,Vermicelli - 140g,packaged_food,6.61,6.42,4.8,2207,2026-01-06,Amazon
+P012,Amul,Amul Brown Rice,Short Grain - 10kg,rice,10.63,12.09,3.9,967,2024-08-20,Amazon
+P013,Kellogg's,Kellogg's Instant Coffee,Classic - 200g,coffee,9.06,7.37,3.0,2384,2023-03-24,Amazon
+P014,Britannia,Britannia Cooking Oil,Refined - 5L,oil,22.18,21.68,3.3,123,2023-05-10,Amazon
+P015,Britannia,Britannia Fruit Juice,Apple - 1L,beverages,11.06,9.13,4.3,4608,2025-08-08,Amazon
+P016,Britannia,Britannia Brown Rice,Long Grain - 1kg,rice,17.71,19.17,4.4,3714,2026-01-05,Amazon
+P017,Amul,Amul Cream Biscuits,Strawberry - 100g,biscuits,4.18,4.81,4.6,453,2025-10-16,Amazon
+P018,ITC,ITC Brown Rice,Long Grain - 5kg,rice,17.36,18.54,4.4,2280,2024-06-02,Amazon
+P019,Parle,Parle Olive Oil,Extra Virgin - 1L,oil,12.83,13.52,3.3,2301,2023-04-28,Amazon
+P020,Fortune,Fortune Marie Biscuits,Whole Wheat - 200g,biscuits,2.19,2.06,4.9,3340,2025-03-25,Amazon
+P021,Amul,Amul Green Tea,Lemon - 25 bags,tea,4.46,3.69,4.0,4824,2024-09-17,Amazon
+P022,Maggi,Maggi Olive Oil,Light - 250ml,oil,21.17,24.89,4.8,3321,2025-03-08,Amazon
+P023,Britannia,Britannia Red Chilli Powder,Byadgi - 200g,spices,7.78,7.66,4.8,1779,2023-09-04,Amazon
+P024,Maggi,Maggi Energy Drink,Tropical - 250ml,beverages,8.11,8.99,4.8,1186,2024-07-20,Amazon
+P025,Fortune,Fortune Instant Coffee,Classic - 200g,coffee,15.92,12.74,3.2,2576,2024-05-24,Amazon
+P026,Aashirvaad,Aashirvaad Pasta,Macaroni - 1kg,packaged_food,11.0,9.37,4.4,4671,2023-09-04,Amazon
+P027,ITC,ITC Corn Flakes,Honey - 250g,breakfast_cereals,10.43,8.37,3.6,4875,2024-05-20,Amazon
+P028,Aashirvaad,Aashirvaad Turmeric Powder,Organic - 100g,spices,12.32,12.14,4.2,4324,2025-11-08,Amazon
+P029,Kellogg's,Kellogg's Cream Biscuits,Strawberry - 100g,biscuits,6.39,5.14,4.5,4294,2023-08-21,Amazon
+P030,Britannia,Britannia Coffee Powder,Filter Coffee - 100g,coffee,12.64,14.37,4.7,4048,2025-12-17,Amazon
+P031,Nestle,Nestle Energy Drink,Classic - 500ml,beverages,2.02,1.83,4.8,2346,2025-05-17,Amazon
+P032,Parle,Parle Noodles,Hakka - 280g,packaged_food,5.77,5.26,3.6,2308,2024-05-15,Amazon
+P033,Kellogg's,Kellogg's Fruit Juice,Apple - 1L,beverages,5.34,4.77,3.5,4648,2024-05-07,Amazon
+P034,Parle,Parle Oats,Rolled - 2kg,breakfast_cereals,5.78,6.92,4.1,4132,2025-12-06,Amazon
+P035,Fortune,Fortune Green Tea,Lemon - 50 bags,tea,12.86,13.02,3.5,4301,2025-01-22,Amazon
+P036,Kellogg's,Kellogg's Green Tea,Classic - 25 bags,tea,5.62,6.14,3.8,3211,2025-11-16,Amazon
+P037,Fortune,Fortune Energy Drink,Sugar Free - 250ml,beverages,4.32,4.04,4.7,1171,2025-03-10,Amazon
+P038,Britannia,Britannia Oats,Steel Cut - 2kg,breakfast_cereals,17.79,21.07,4.2,4364,2025-01-23,Amazon
+P039,Britannia,Britannia Fruit Juice,Mango - 1L,beverages,5.36,4.47,3.2,4039,2024-09-13,Amazon
+P040,Nestle,Nestle Corn Flakes,Classic - 500g,breakfast_cereals,7.93,6.67,3.2,3042,2025-02-27,Amazon
+P041,Kellogg's,Kellogg's Instant Coffee,Strong - 200g,coffee,8.31,8.1,3.5,4010,2025-11-08,Amazon
+P042,Fortune,Fortune Coffee Powder,Cappuccino - 200g,coffee,16.25,19.48,3.5,2257,2023-05-25,Amazon
+P043,Amul,Amul Green Tea,Mint - 100 bags,tea,19.3,15.5,3.8,1899,2024-04-08,Amazon
+P044,Fortune,Fortune Cream Biscuits,Strawberry - 100g,biscuits,3.47,3.63,3.2,1837,2023-04-16,Amazon
+P045,Kellogg's,Kellogg's Brown Rice,Long Grain - 10kg,rice,5.42,4.76,4.3,2604,2024-06-08,Amazon
+P046,Britannia,Britannia Cooking Oil,Mustard - 5L,oil,8.27,8.83,3.1,2499,2026-01-29,Amazon
+P047,Aashirvaad,Aashirvaad Basmati Rice,Organic - 1kg,rice,14.19,13.74,3.6,128,2025-07-31,Amazon
+P048,Parle,Parle Instant Coffee,Decaf - 50g,coffee,19.42,23.03,4.8,3273,2023-12-19,Amazon
+P049,Tata,Tata Corn Flakes,Honey - 250g,breakfast_cereals,13.03,12.92,3.1,1302,2025-09-11,Amazon
+P050,Amul,Amul Oats,Steel Cut - 500g,breakfast_cereals,17.44,14.84,4.7,4731,2024-12-11,Amazon
+P051,Britannia,Britannia Olive Oil,Pure - 500ml,oil,27.74,30.33,4.2,4777,2025-05-06,Amazon
+P052,Nestle,Nestle Basmati Rice,Premium - 5kg,rice,12.37,11.21,3.5,3153,2023-06-17,Amazon
+P053,ITC,ITC Potato Chips,Classic Salted - 200g,snacks,11.6,9.38,4.6,2369,2025-01-20,Amazon
+P054,Tata,Tata Olive Oil,Extra Virgin - 250ml,oil,12.01,11.58,5.0,412,2024-03-06,Amazon
+P055,Tata,Tata Noodles,Vermicelli - 70g,packaged_food,13.65,16.35,3.1,580,2023-09-19,Amazon
+P056,Tata,Tata Pasta,Spaghetti - 1kg,packaged_food,7.04,8.01,5.0,1911,2025-06-20,Amazon
+P057,Parle,Parle Cooking Oil,Mustard - 500ml,oil,9.54,8.51,4.6,1296,2026-01-24,Amazon
+P058,Aashirvaad,Aashirvaad Pasta,Spaghetti - 250g,packaged_food,12.05,9.74,4.7,1057,2025-12-06,Amazon
+P059,Britannia,Britannia Biscuits,Chocolate Cream - 200g,snacks,9.13,8.99,4.7,3427,2023-08-09,Amazon
+P060,ITC,ITC Corn Flakes,Classic - 250g,breakfast_cereals,12.49,13.27,4.4,979,2025-11-14,Amazon
+P061,Aashirvaad,Aashirvaad Coffee Powder,Cappuccino - 500g,coffee,9.81,9.66,3.1,2434,2025-06-29,Amazon
+P062,ITC,ITC Noodles,Vermicelli - 70g,packaged_food,4.76,4.36,4.0,252,2024-05-23,Amazon
+P063,Parle,Parle Biscuits,Butter - 100g,snacks,3.01,2.91,4.7,2422,2026-01-17,Amazon
+P064,Fortune,Fortune Fruit Juice,Mango - 1L,beverages,11.71,13.29,3.0,4275,2023-07-11,Amazon
+P065,Tata,Tata Potato Chips,Classic Salted - 50g,snacks,3.48,3.36,4.5,3356,2024-12-23,Amazon
+P066,Nestle,Nestle Pasta,Penne - 1kg,packaged_food,10.12,11.0,4.2,4279,2024-09-08,Amazon
+P067,ITC,ITC Biscuits,Butter - 500g,snacks,6.11,7.13,3.8,4281,2024-03-21,Amazon
+P068,Fortune,Fortune Biscuits,Marie - 100g,snacks,5.85,4.86,3.8,2218,2025-10-30,Amazon
+P069,Parle,Parle Cream Biscuits,Chocolate - 300g,biscuits,5.07,5.52,5.0,3273,2025-01-17,Amazon
+P070,Aashirvaad,Aashirvaad Brown Rice,Short Grain - 10kg,rice,13.5,10.83,3.4,306,2024-10-01,Amazon
+P071,Nestle,Nestle Pasta,Penne - 500g,packaged_food,8.19,9.25,5.0,3915,2025-11-29,Amazon
+P072,Kellogg's,Kellogg's Brown Rice,Long Grain - 5kg,rice,15.57,16.76,4.1,271,2023-04-27,Amazon
+P073,Parle,Parle Olive Oil,Extra Virgin - 1L,oil,18.32,18.75,4.1,2420,2024-10-29,Amazon
+P074,Fortune,Fortune Cream Biscuits,Vanilla - 200g,biscuits,7.69,7.19,4.0,1952,2025-10-16,Amazon
+P075,Kellogg's,Kellogg's Pasta,Penne - 250g,packaged_food,14.83,13.54,4.8,2527,2024-04-25,Amazon
+P076,Britannia,Britannia Corn Flakes,Classic - 1kg,breakfast_cereals,7.66,7.38,4.6,4611,2025-07-19,Amazon
+P077,Fortune,Fortune Turmeric Powder,Premium - 200g,spices,9.17,10.44,4.9,1010,2024-12-09,Amazon
+P078,Britannia,Britannia Olive Oil,Pure - 250ml,oil,13.43,10.9,4.1,4273,2023-03-18,Amazon
+P079,Parle,Parle Energy Drink,Classic - 250ml,beverages,6.44,5.31,4.0,277,2024-03-23,Amazon
+P080,Tata,Tata Oats,Rolled - 2kg,breakfast_cereals,11.29,9.84,3.0,841,2023-11-05,Amazon
+P081,Kellogg's,Kellogg's Instant Coffee,Classic - 200g,coffee,9.04,7.47,4.1,1812,2023-04-20,Amazon
+P082,ITC,ITC Green Tea,Mint - 100 bags,tea,10.47,10.01,4.2,1035,2024-11-22,Amazon
+P083,Fortune,Fortune Green Tea,Classic - 100 bags,tea,10.59,11.38,4.2,2668,2025-11-16,Amazon
+P084,Britannia,Britannia Marie Biscuits,Oats - 200g,biscuits,2.22,1.87,3.6,2993,2024-07-15,Amazon
+P085,Tata,Tata Turmeric Powder,Regular - 100g,spices,9.0,10.79,4.9,1864,2025-07-02,Amazon
+P086,Parle,Parle Marie Biscuits,Oats - 200g,biscuits,2.63,2.58,4.2,2018,2023-06-02,Amazon
+P087,Tata,Tata Pasta,Penne - 1kg,packaged_food,4.25,4.77,5.0,2206,2025-12-03,Amazon
+P088,Amul,Amul Pasta,Macaroni - 500g,packaged_food,12.26,12.1,3.8,2695,2024-12-26,Amazon
+P089,Aashirvaad,Aashirvaad Instant Coffee,Strong - 200g,coffee,7.41,7.83,4.5,2385,2025-03-28,Amazon
+P090,Kellogg's,Kellogg's Fruit Juice,Orange - 2L,beverages,10.72,8.9,4.8,2794,2024-08-25,Amazon
+P091,ITC,ITC Noodles,Instant - 70g,packaged_food,9.06,7.75,3.6,65,2023-06-12,Amazon
+P092,Aashirvaad,Aashirvaad Green Tea,Classic - 50 bags,tea,17.65,19.11,3.5,3025,2024-07-12,Amazon
+P093,ITC,ITC Black Tea,Assam - 500g,tea,18.27,16.62,3.2,3012,2024-04-26,Amazon
+P094,Parle,Parle Black Tea,Darjeeling - 500g,tea,4.03,4.56,4.3,2403,2023-10-19,Amazon
+P095,Aashirvaad,Aashirvaad Cream Biscuits,Strawberry - 300g,biscuits,4.18,4.86,3.4,3606,2025-05-30,Amazon
+P096,Amul,Amul Pasta,Macaroni - 1kg,packaged_food,7.07,6.01,3.8,2358,2023-06-24,Amazon
+P097,Aashirvaad,Aashirvaad Turmeric Powder,Organic - 200g,spices,7.43,6.34,4.3,2598,2026-01-09,Amazon
+P098,Amul,Amul Turmeric Powder,Premium - 500g,spices,14.91,14.3,4.7,1915,2024-03-24,Amazon
+P099,Parle,Parle Turmeric Powder,Premium - 200g,spices,3.38,3.05,3.2,2961,2024-01-28,Amazon
+P100,Maggi,Maggi Oats,Steel Cut - 500g,breakfast_cereals,17.26,20.46,3.3,1662,2026-01-29,Amazon
